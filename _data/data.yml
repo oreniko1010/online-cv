@@ -19,7 +19,7 @@ sidebar:
     github: maoriko
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -36,6 +36,9 @@ sidebar:
 
       - item: Cooking
         link:
+
+      - item: Reading
+        link:    
 
 career-profile:
     title: Career Profile
@@ -69,6 +72,16 @@ education:
         Cisco Certification - CCNA.
 
 
+    - degree: Practical Mechanicl Engineer.
+      university: Hakfar-Hayrok, Ramat-Hasharon
+      time: 2008 - 2010
+      details: |
+        Starting in MCSA, CCNA, MCSE study program
+        fundamentals of communication protocol
+        managing Microsoft servers - MCSA, MCSE.
+        Active Directory services.
+        Cisco Certification - CCNA.
+
 experiences:
     - role: System Administrator
       time: 2019 - Present
@@ -95,7 +108,7 @@ experiences:
 
     - role: Help Desk
       time: 2014 - 2016
-      company: Tactivision IT services, London
+      company: Tactivision IT services, Tel-Aviv
       details: |
         fundamentals of IT services
         Fixing Domain issues, DNS, DHCP, Printer servers in windows server enviorment.
