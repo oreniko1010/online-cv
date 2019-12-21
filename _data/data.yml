@@ -46,8 +46,6 @@ career-profile:
       Driven with expertise in infrastructure planning. 
       looking forward to the next challenge aiming on DevOps junior position.
 
-      Second paragraph if required.
-
 education:
     - degree: DevOps
       university: HackerU - Ramat-Gan
@@ -59,8 +57,6 @@ education:
         DevOps tools - Docker, Kubernetees, Jenkins, Ansible, Puppet, Git etc.
         Python & BASH Programming.
 
-          - Bullet point
-          - Bullet point 
 
     - degree: MCSA, CCNA, MCSE.
       university: HackerU - Ramat-Gan
@@ -72,8 +68,6 @@ education:
         Active Directory services.
         Cisco Certification - CCNA.
 
-          - Bullet point
-          - Bullet point 
 
 experiences:
     - role: System Administrator
@@ -89,8 +83,6 @@ experiences:
         Strong knowledge in Visio drawings 
         Strong knowledge in office365 systems + G-Suite Admin centers as one.
 
-          - Bullet point
-          - Bullet point 
 
     - role: Windows System Administrator
       time: 2017 - 2019
@@ -100,8 +92,6 @@ experiences:
         Provided second-level support for all server class systems.
         Resolved issues and escalated problems with knowledgeable support and quality service.
 
-          - Bullet point
-          - Bullet point
 
     - role: Help Desk
       time: 2014 - 2016
@@ -110,9 +100,6 @@ experiences:
         fundamentals of IT services
         Fixing Domain issues, DNS, DHCP, Printer servers in windows server enviorment.
         Fixing a daily requests of clients - Malware cleaning, Clean up systems, Migrate data between PC's etc.
-
-          - Bullet point
-          - Bullet point
 
 
 skills:
@@ -134,4 +121,4 @@ skills:
       - name: Windows Server
         level: 90%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
