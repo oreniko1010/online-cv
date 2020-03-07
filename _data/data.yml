@@ -12,7 +12,7 @@ sidebar:
     avatar: OrenLevi.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: maor5656@gmail.com
+    email: Orenlevi97@gmail.com
     phone: +972 52 251 5677
     website:  #do not add http://
     linkedin: #maor-paz-033bb1116
@@ -59,7 +59,7 @@ education:
 
 
     - degree: BA
-      university: HackerU - Ramat-Gan
+      university: M.L.A. College
       time: 2016    
       details: |
         Business Administration, M.L.A. College
@@ -103,19 +103,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
-        level: 70%
+      - name: Sales 
+        level: 95%
 
-      - name: BASH
-        level: 70%
+      - name: Marketing
+        level: 75%
 
-      - name: PowerShell
-        level: 80%
-
-      - name: Linux
-        level: 85%
-
-      - name: Windows Server
+      - name: Inter Personal
         level: 90%
+
+      - name: Mobility
+        level: 100%
+
+      - name: Ready to travel
+        level: 100%
 footer: >
     
